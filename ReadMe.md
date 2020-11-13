@@ -6,7 +6,7 @@ So here is a simple documentation that will guide the new budding developers/pro
 
 PyAudio provides Python bindings for PortAudio, the cross-platform audio I/O library. With PyAudio, you can easily use Python to play and record audio on a variety of platforms. so while installing <b>Pyaudio</b> a lot of programmers can have an encounter with this error.
 
-![image](https://user-images.githubusercontent.com/58935609/99066793-8e40c700-25cf-11eb-857f-de4ac26d9f0c.png)
+![githubimg](https://user-images.githubusercontent.com/58935609/99071276-cb10bc00-25d7-11eb-98f3-594051aad045.png)
 
 This error generally occurs because there are some files missing that will help in build your library. Hence providing the build tools will be a simple soolution to solve this error.
 
