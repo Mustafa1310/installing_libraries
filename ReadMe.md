@@ -15,7 +15,8 @@ To get all the buiding tools, go to the given link:
 
 This link contains all the modules and the build tools for almost all the libraries. To install the library click on the name of library which is in this case Pyaudio and download the file which is compatible with your version. If you use Python 3.7 then download the <b>.whl file</b> compatible with your version of python. To get the librarty working follow the given steps:
 <ul>
-  Find your Python version by python --version.
+  
+ Find your Python version by python --version.
   
  Find and download the appropriate .whl file.
   
