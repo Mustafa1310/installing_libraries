@@ -15,18 +15,17 @@ To get all the buiding tools, go to the given link:
 
 This link contains all the modules and the build tools for almost all the libraries. To install the library click on the name of library which is in this case Pyaudio and download the file which is compatible with your version. If you use Python 3.7 then download the <b>.whl file</b> compatible with your version of python. To get the librarty working follow the given steps:
 <ul>
-1) Find your Python version by python --version.
+  Find your Python version by python --version.
   
-2) Find and download the appropriate .whl file.
+ Find and download the appropriate .whl file.
   
-3) Go to the folder where it is downloaded
+ Go to the folder where it is downloaded
 
-4) Install the pip file looking at the given example.
+ Install the pip file looking at the given example.
   
-    `pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
-`
+    `pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl`
 
-</ul>
+ </ul>
 
 Hence the problem you faced while downloading the library is solved and this solution is applicable while installing almost all the python libraries.
 
